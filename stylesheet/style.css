@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav li{
+    border: 3px solid white;
+    background-color: rgb(3, 48, 3);
+    margin-right: 12px;
+    padding: 5px;
+    
+}
+.nav ul>:hover{
+    background-color: rgb(22, 160, 119);
+    color: black
+}
+    
+
+.wel h2{
+    font-family: cursive;
+    color: antiquewhite;
+     
+}
+/* sign */
+   #log{
+     background: url(images/backgrunf.jpg); 
+    
+   background-repeat: no-repeat; 
+     background-size: cover; 
+    background-position: fixed;
+    height: 100%;
+    
+  }
+  #sinn{
+    background-image: url(images/munnar.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: contain;
+    background-color:rgb(22, 42, 151);
+  }
+ 
+  .btn-primary{
+    width: 100%;
+  }
+  
+  .form{
+     border: 3px solid rgb(30, 85, 102);
+     border-style: inset;
+    border-radius: 10px;
+    box-shadow: 5px rgb(22, 42, 151);
+    /* background-color: rgb(9, 85, 38); */
+    letter-spacing: 1px;
+  }
+  .formhead{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+  }
+  /* log */
+   .sid1{
+     position: relative;
+    width: 100%;
+    size: cover;
+   }
+   #for{
+    color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   
+ 
+    
+
+   
